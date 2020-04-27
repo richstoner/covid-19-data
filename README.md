@@ -1,6 +1,8 @@
-Cases by state over time: [xlsx](https://github.com/richstoner/covid-19-data/blob/master/COVID%20cases%20x%20date%20x%20state.xlsx?raw=true))
+# RMS: 04/26/2020 - Minor transforms and format changes:
 
-Deaths by state over time: [xlsx](https://github.com/richstoner/covid-19-data/blob/master/COVID%20deaths%20x%20date%20x%20state.xlsx?raw=true))
+Cases by state over time: [xlsx](https://github.com/richstoner/covid-19-data/blob/master/COVID%20cases%20x%20date%20x%20state.xlsx?raw=true)
+
+Deaths by state over time: [xlsx](https://github.com/richstoner/covid-19-data/blob/master/COVID%20deaths%20x%20date%20x%20state.xlsx?raw=true)
 
 # Coronavirus (Covid-19) Data in the United States
 
