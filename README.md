@@ -1,3 +1,7 @@
+Cases by state over time: [xlsx](https://github.com/richstoner/covid-19-data/blob/master/COVID%20cases%20x%20date%20x%20state.xlsx?raw=true))
+
+Deaths by state over time: [xlsx](https://github.com/richstoner/covid-19-data/blob/master/COVID%20deaths%20x%20date%20x%20state.xlsx?raw=true))
+
 # Coronavirus (Covid-19) Data in the United States
 
 [ [U.S. Data](us.csv) ([Raw CSV](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us.csv)) | [U.S. State-Level Data](us-states.csv) ([Raw CSV](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv)) | [U.S. County-Level Data](us-counties.csv) ([Raw CSV](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv)) ]
